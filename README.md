@@ -12,9 +12,9 @@ The discord file is optional, and only needed if you plan to activate the option
 - Change the 'false' to 'true' under the setting at the top of the main file (enable discord sending)
 - Replace the default example webhook address with your own.
 
-If you need help, you can get in touch with me on Discord, under the account isobellavt
+If you need help, you can get in touch with me on Discord, under the account TipsyChaosPixie
 
 ---
 Do you like the plugin, and wish to donate?
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7653RW)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tipsychaospixie)
